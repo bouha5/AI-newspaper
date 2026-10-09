@@ -1,0 +1,19 @@
+# Python virtual environments
+.venv/
+SadTalker/.venv-sadtalker/
+
+# Generated audio and video
+*.wav
+*.mp4
+SadTalker/results/
+
+# AI model weights and configurations
+*.onnx
+*.onnx.json
+*.safetensors
+*.pth
+*.pth.tar
+
+# Python cache
+__pycache__/
+*.pyc
